@@ -17,7 +17,7 @@ Go to BACKEND folder
 	
 	run  npm install
 		
-	run  npm serve
+	run  nodemon serve
 
 		
 Go to http://localhost:4200/ frontend website

@@ -8,7 +8,7 @@ Go to BACKEND folder
 	
 	run  npm install
 		
-	run  npm serve
+	run  nodemon serve
 
 		
 The Backend API server will be running on http://localhost:3000/
