@@ -7,14 +7,20 @@ Backend has the api server.
 
 
 FRONTEND
-	run 
-		npm install
-		ng serve 	
+	
+	run
+	
+	npm install
+	
+	ng serve 	
 
 
 BACKEND 
+	
 	run
+		
 		npm install
+		
 		npm serve
 
 		
