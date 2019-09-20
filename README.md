@@ -6,24 +6,20 @@ Frontend folder has the frontend app.
 Backend has the api server.
 
 
-FRONTEND
+Go to FRONTEND folder
 	
-	run
+	run  npm install
 	
-	npm install
-	
-	ng serve 	
+	run  ng serve 	
 
 
-BACKEND 
+Go to BACKEND folder 
 	
-	run
+	run  npm install
 		
-		npm install
-		
-		npm serve
+	run  npm serve
 
 		
-Go to http://localhost:4200/ 
+Go to http://localhost:4200/ frontend website
 
-The API server will be running on http://localhost:3000/
+The Backend API server will be running on http://localhost:3000/

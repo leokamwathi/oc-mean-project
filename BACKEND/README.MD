@@ -1,7 +1,14 @@
-BACKEND 
+# oc-mean-project
+
+Open Classrooms MEAN Stack Project
+
+Backend has the api server.
+
+Go to BACKEND folder 
 	
-	run
+	run  npm install
 		
-		npm install
+	run  npm serve
+
 		
-		npm serve
+The Backend API server will be running on http://localhost:3000/
